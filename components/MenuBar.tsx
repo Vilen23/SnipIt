@@ -48,7 +48,7 @@ export default function MenuBar({
   };
   return (
     <div>
-      <div className="shadow-2xl rounded-xl min-w-[400px] border-white/20 border-2 bg-[#111] ">
+      <div className="shadow-2xl rounded-xl min-w-[400px] border-white/20 border-2 dark:bg-[#111] ">
         <div className="grid grid-cols-3 gap-3 p-2">
           <div>
             <Select
